@@ -1,5 +1,6 @@
 # FastJN
-Original Link <https://github.com/JunsW/FastJN>
+Original Link For Fast JN <https://github.com/JunsW/FastJN>
+Reference Link For Easy New File <https://zhuanlan.zhihu.com/p/39600106>
 
 This repository contains some **Mac OS** Automator scripts making your life with Jupyter notebook much more efficient.
 
