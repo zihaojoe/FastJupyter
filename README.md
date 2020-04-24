@@ -1,4 +1,4 @@
-# FastJN
+# FastJupyter
 Original Link For Fast JN <https://github.com/JunsW/FastJN>     
 Reference Link For Easy New File <https://zhuanlan.zhihu.com/p/39600106>
 
